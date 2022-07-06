@@ -1,0 +1,15 @@
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\bin\Debug\net6.0\HW22.exe
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\bin\Debug\net6.0\HW22.deps.json
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\bin\Debug\net6.0\HW22.runtimeconfig.json
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\bin\Debug\net6.0\HW22.dll
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\bin\Debug\net6.0\HW22.pdb
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\obj\Debug\net6.0\HW22.csproj.AssemblyReference.cache
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\obj\Debug\net6.0\HW22.GeneratedMSBuildEditorConfig.editorconfig
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\obj\Debug\net6.0\HW22.AssemblyInfoInputs.cache
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\obj\Debug\net6.0\HW22.AssemblyInfo.cs
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\obj\Debug\net6.0\HW22.csproj.CoreCompileInputs.cache
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\obj\Debug\net6.0\HW22.dll
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\obj\Debug\net6.0\refint\HW22.dll
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\obj\Debug\net6.0\HW22.pdb
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\obj\Debug\net6.0\HW22.genruntimeconfig.cache
+D:\ІЛЛЯ\ШАГ\2021-22\C# NET\HW\22\HW22\HW22\obj\Debug\net6.0\ref\HW22.dll
